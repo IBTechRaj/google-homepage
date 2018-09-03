@@ -27,6 +27,8 @@
     }
     body {
     	font-family: arial, sans-serif;
+	    height: 100%;
+    	margin-bottom: 0px;
     }
 
     /*
